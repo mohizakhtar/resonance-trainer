@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+<rect width="256" height="256" fill="#0d0f12"/>
+<g fill="none" stroke-linecap="square" stroke-linejoin="miter">
+<!-- tuning fork tines, asymmetric crop composition -->
+<path d="M78 40 L78 148" stroke="#e8e4da" stroke-width="9"/>
+<path d="M118 40 L118 148" stroke="#e8e4da" stroke-width="9"/>
+<path d="M78 148 Q98 178 118 148" stroke="#e8e4da" stroke-width="9"/>
+<path d="M98 164 L98 216" stroke="#e8e4da" stroke-width="9"/>
+<!-- sine wave entering from right, tightening into the fork intersection -->
+<path d="M210 128 Q198 96 186 128 Q174 160 162 128 Q150 96 138 128 Q126 160 118 128" stroke="#7fd8c4" stroke-width="6"/>
+<!-- flattening into straight line -->
+<path d="M118 128 L78 128" stroke="#7fd8c4" stroke-width="6"/>
+<path d="M78 128 L52 128" stroke="#7fd8c4" stroke-width="6"/>
+<!-- accent calibration tick marks -->
+<path d="M58 40 L58 52" stroke="#ff5a1f" stroke-width="5"/>
+<path d="M138 40 L138 52" stroke="#ff5a1f" stroke-width="5"/>
+<path d="M52 128 L52 118" stroke="#ff5a1f" stroke-width="5"/>
+<path d="M52 128 L52 138" stroke="#ff5a1f" stroke-width="5"/>
+<!-- resonance node accents -->
+<circle cx="98" cy="164" r="5" fill="#ff5a1f"/>
+<circle cx="118" cy="128" r="4" fill="#e8e4da"/>
+</g>
+</svg>
